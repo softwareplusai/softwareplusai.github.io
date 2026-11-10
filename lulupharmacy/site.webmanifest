@@ -1,0 +1,16 @@
+{
+  "name": "LuLu Pharmacy — Oman Avenues Mall",
+  "short_name": "LuLu Pharmacy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4EFE6",
+  "theme_color": "#2B432D",
+  "icons": [
+    {
+      "src": "assets/apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
